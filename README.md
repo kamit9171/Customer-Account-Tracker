@@ -30,7 +30,7 @@ The Customer Account Tracker is a web-based application built using Spring Boot,
 
 To ensure the functionality and correctness of the CRUD operations, we recommend using **Postman** for testing. Postman is a popular tool that allows developers to test API endpoints by sending requests and verifying the responses. You can use the following Postman collections to test the endpoints provided by this application:
 
-[Link to Postman Collection](#) (Replace with the actual link)
+[Link to Postman Collection](#) 
 
 ## Getting Started
 
